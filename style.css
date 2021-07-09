@@ -1,0 +1,35 @@
+ul{
+  margin: 0;
+  padding:0;
+  list-style: none;
+  text-align: center;
+
+}
+ul li{
+  display: inline-block;
+  margin-right: 30px;
+  background-color: brown;
+  padding:10px,25px ;
+ text-decoration: none;
+}
+
+
+body{
+  font-family: 'Roboto', sans-serif;
+  background-image: url(img/car2.png);
+  background-repeat: no-repeat;
+background-size: 100%;
+}
+ul li{
+  text-decoration: none;
+  text
+}
+ .text_position{
+  text-align: center;
+  background-color:black;
+  color: white;
+  margin: 0;
+  padding: 0;
+ 
+
+}
